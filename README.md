@@ -13,11 +13,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a panel for a Service**
+ 🔭 I’m currently working on **a panel for a Service and a FiveM Server Template**
  
  🌱 I’m currently learning **C#, API**
 
-💬 Ask me about **Node.js, Lua, Discord Bots... or anything [here](https://github.com/arkannk/marlon/issues)**
+💬 Ask me about **Node.js, Lua, Discord Bots, FiveM... or anything [here](https://github.com/arkannk/marlon/issues)**
 
  </div>
  <h2 align="center">Contact</h2>
